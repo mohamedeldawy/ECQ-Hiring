@@ -1,0 +1,6 @@
+{
+  "name": "داشبورد تعيينات جودة المحتوى | منصة الخطة التعليمية",
+  "description": "منظومة تقييم ومقابلات التوظيف المشتركة بين إدارة جودة المحتوى والموارد البشرية في منصة الخطة التعليمية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
